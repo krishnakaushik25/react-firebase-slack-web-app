@@ -69,3 +69,4 @@ node_modules/
 .firebaserc
 yarn.lock
 
+./src/firebase.js
