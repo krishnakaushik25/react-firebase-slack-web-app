@@ -60,9 +60,9 @@ Working Sample Account: userx, userx@email.com, Password : 123456, Confirm passw
 
 If you have already registered, you can loin with the same creds you gave for registration otherwise it displays the error!!
 
-##### Built a live chat app called CodeChat, where users will be able to create channels, to send messages to other users on those channels.
-##### Send media files, see when other users are typing, add emojis to their messages.
-##### Favorite and unfavorite channels they like or dislike, and get notifications about new messages on other channels. 
+#### Built a live chat app called CodeChat, where users will be able to create channels, to send messages to other users on those channels.
+#### Send media files, see when other users are typing, add emojis to their messages.
+#### Favorite and unfavorite channels they like or dislike, and get notifications about new messages on other channels. 
 
 #### For deployment ,we will be using Firebase tools
 
