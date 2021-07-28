@@ -58,7 +58,7 @@ To Register: Make any username annd email you want(It should have the @ usual re
 
 Working Sample Account: userx, userx@email.com, Password : 123456, Confirm password : 123456.
 
-If you have already registered, you can loin with the same creds you gave for registration otherwise it displays the error!!
+If you have already registered, you can loin with the same creds you gave for registration otherwise it displays the error!! Some of the functionalities are:-
 
 #### Built a live chat app called CodeChat, where users will be able to create channels, to send messages to other users on those channels.
 #### Send media files, see when other users are typing, add emojis to their messages.
