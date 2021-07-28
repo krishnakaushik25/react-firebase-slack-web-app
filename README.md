@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/krishnakaushik25/react-firebase-slack-web-app">
-    <img src="img/slack_firebase_app.jpg" alt="Logo" width="400" height="250">
+    <img src="img/slack_firebase_app.jpg" alt="Logo" width="750" height="422">
   </a>
 
   <h3 align="center">React-Firebase-Slack-Clone WEB APP</h3>
